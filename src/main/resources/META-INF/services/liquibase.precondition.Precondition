@@ -1,1 +1,1 @@
-com.example.precondition.HasPasswordColumnPrecondition
+liquibase.databricks.precondition.HasPasswordColumnPrecondition
