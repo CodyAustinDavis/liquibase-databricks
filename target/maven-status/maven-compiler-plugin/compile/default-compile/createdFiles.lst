@@ -1,0 +1,5 @@
+liquibase/ext/databricks/change/optimize/OptimizeStatement.class
+liquibase/ext/databricks/database/DatabricksDatabase.class
+liquibase/ext/databricks/change/PrefixedCreateTableChange.class
+liquibase/ext/databricks/change/optimize/OptimizeChange.class
+liquibase/ext/databricks/change/optimize/OptimizeGenerator.class

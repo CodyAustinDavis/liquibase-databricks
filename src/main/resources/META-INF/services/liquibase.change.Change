@@ -1,2 +1,2 @@
-liquibase.databricks.change.ClearPasswordsChange
-liquibase.databricks.change.PrefixedCreateTableChange
+liquibase.ext.databricks.change.PrefixedCreateTableChange
+liquibase.ext.databricks.change.optimize.OptimizeChange
